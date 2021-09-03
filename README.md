@@ -42,7 +42,7 @@ The template curriculum can be found here: https://www.cs.columbia.edu/education
   4.  [Bayesian Statistics](https://www.coursera.org/learn/bayesian-statistics) -- University of California, Santa Cruz
       - In progress
   5.  [Statistical Learning](https://www.edx.org/course/statistical-learning) -- Standford University
-      - In progress
+      - Finished
 
   - Option: <br/>
   7.  [Convex Optimization](https://www.edx.org/course/convex-optimization) -- Standford University
@@ -52,9 +52,9 @@ The template curriculum can be found here: https://www.cs.columbia.edu/education
  
 - Business 
   1.  [Data, Models and Decisions in Business Analytics](https://learning.edx.org/course/course-v1:ColumbiaX+BAMM.102x+1T2021/home) -- Columbia University (MicroMasters® Program)
-      - In Progress
+      - Finished
   3.  [Marketing Analytics](https://learning.edx.org/course/course-v1:ColumbiaX+BAMM.104x+1T2021/home) -- Columbia University (MicroMasters® Program)
-      - In Progress
+      - Finished
   4.  [Excel Skills for Business](https://www.coursera.org/specializations/excel?utm_source=gg&utm_medium=sem&utm_campaign=13-Excel-Macquarie-US&utm_content=13-Excel-Macquarie-US&campaignid=6663908113&adgroupid=105717488076&device=c&keyword=&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=453120977941&hide_mobile_promo&gclid=Cj0KCQiAhP2BBhDdARIsAJEzXlFSeZP0jmCpqkESQliFWoh_ZPN7exE7zMcGrbYXRhRHFFjjBBf1oUYaAoXEEALw_wcB) -- Macquarie University
       - [Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/7PWUXD2EARN6)
   5.  [Foundational Finance for Strategic Decision Making](https://www.coursera.org/specializations/foundational-finance) -- University of Michigan
